@@ -1,2 +1,6 @@
-name: Architect Theme
+name: VAT-MESS
 markdown: redcarpet
+defaults:
+  -
+    values:
+      layout: "default"
